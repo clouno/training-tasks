@@ -1,3 +1,4 @@
 rootProject.name = 'training-tasks'
 include 'tree-to-list'
+include 'knapsack'
 
